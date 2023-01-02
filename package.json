@@ -1,14 +1,14 @@
 {
-  "name": "eslint-plugin-mongo-id-compare",
+  "name": "eslint-plugin-mongo-id-comparison",
   "version": "1.0.0",
   "description": "Eslint rule to warn when two primary keys on MongoDB are compared using the === operator.",
-  "main": "mongo-id-compare.js",
+  "main": "mongo-id-comparison.js",
   "scripts": {
-    "test": "node mongo-id-compare.test.js"
+    "test": "node mongo-id-comparison.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miguel-dev/eslint-plugin-mongo-id-compare.git"
+    "url": "git+https://github.com/miguel-dev/eslint-plugin-mongo-id-comparison.git"
   },
   "keywords": [
     "\"MongoDB\"",
@@ -21,9 +21,9 @@
   "author": "\"Miguel Cortes\"",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/miguel-dev/eslint-plugin-mongo-id-compare/issues"
+    "url": "https://github.com/miguel-dev/eslint-plugin-mongo-id-comparison/issues"
   },
-  "homepage": "https://github.com/miguel-dev/eslint-plugin-mongo-id-compare#readme",
+  "homepage": "https://github.com/miguel-dev/eslint-plugin-mongo-id-comparison#readme",
   "devDependencies": {
     "eslint": "^8.30.0"
   }
